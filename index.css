@@ -34,7 +34,14 @@ main{
 #contenido{
     text-align: center;
     padding: 20px;
+    overflow-x:auto;
+    width: 80%;
     
+}
+
+#contenido-tabla{
+    
+    width: 80%;
 }
 
 #contenido-cabecera{
